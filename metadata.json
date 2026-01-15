@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Census Quality Scoring Agent",
+  "description": "A conversational AI agent for Group Life Insurance implementation that scores census data quality, predicts EOI risks, and prioritizes operational effort.",
+  "requestFramePermissions": []
+}
